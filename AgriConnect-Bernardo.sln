@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgriConnect-Bernardo.Mobile", "AgriConnect-Bernardo.Mobile\AgriConnect-Bernardo.Mobile.csproj", "{273A61E0-9B3F-4185-B35B-23B0D84EE6DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgriConnect-Bernardo.Shared", "AgriConnect-Bernardo.Shared\AgriConnect-Bernardo.Shared.csproj", "{A29ABD6B-1F57-444C-8882-A1301CD27525}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgriConnect-Bernardo.Web", "AgriConnect-Bernardo.Web\AgriConnect-Bernardo.Web.csproj", "{B3946A6B-8F6B-4F1C-A69F-A740AC8EFD87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{273A61E0-9B3F-4185-B35B-23B0D84EE6DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{273A61E0-9B3F-4185-B35B-23B0D84EE6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{273A61E0-9B3F-4185-B35B-23B0D84EE6DA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{273A61E0-9B3F-4185-B35B-23B0D84EE6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{273A61E0-9B3F-4185-B35B-23B0D84EE6DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{273A61E0-9B3F-4185-B35B-23B0D84EE6DA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A29ABD6B-1F57-444C-8882-A1301CD27525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29ABD6B-1F57-444C-8882-A1301CD27525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29ABD6B-1F57-444C-8882-A1301CD27525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29ABD6B-1F57-444C-8882-A1301CD27525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3946A6B-8F6B-4F1C-A69F-A740AC8EFD87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3946A6B-8F6B-4F1C-A69F-A740AC8EFD87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3946A6B-8F6B-4F1C-A69F-A740AC8EFD87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3946A6B-8F6B-4F1C-A69F-A740AC8EFD87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
